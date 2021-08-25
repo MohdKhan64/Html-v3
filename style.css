@@ -1,0 +1,17 @@
+*{
+    border: 1px solid black;
+    width: 100%;
+}
+body{
+    width: 100%;    
+}
+#nav-bar {
+    width: 50%;
+}
+span {
+    width: 100%;
+}
+span > a {
+    text-decoration: none;
+    color: black;
+}
